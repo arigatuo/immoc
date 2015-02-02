@@ -1,0 +1,20 @@
+{
+  "name": "Imooc",
+  "version": "0.0.1",
+  "authors": [
+    "arigatuo <arigatuo@gmail.com>"
+  ],
+  "description": "init",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
